@@ -8,7 +8,6 @@ import javax.xml.namespace.QName;
 import javax.xml.ws.Service;
 import java.net.URL;
 import java.time.LocalDate;
-import java.util.GregorianCalendar;
 
 public class TemperatureSoapWebServiceConsumerTest {
     @Test
